@@ -1,0 +1,336 @@
+﻿# Flavor = [Spicy,Dry,Sweet,Bitter,Sour] aka [Cool,Beauty,Cute,Smart,Tough]
+#-------------------------------
+[CHERIBERRY]
+Flavor = 10,0,0,0,0
+Smoothness = 25
+Color = Red
+#-------------------------------
+[CHESTOBERRY]
+Flavor = 0,10,0,0,0
+Smoothness = 25
+Color = Blue
+#-------------------------------
+[PECHABERRY]
+Flavor = 0,0,10,0,0
+Smoothness = 25
+Color = Pink
+#-------------------------------
+[RAWSTBERRY]
+Flavor = 0,0,0,10,0
+Smoothness = 25
+Color = Green
+#-------------------------------
+[ASPEARBERRY]
+Flavor = 0,0,0,0,10
+Smoothness = 25
+Color = Yellow
+#-------------------------------
+[LEPPABERRY]
+Flavor = 10,0,10,10,10
+Smoothness = 20
+Color = Red
+#-------------------------------
+[ORANBERRY]
+Flavor = 10,10,0,10,10
+Smoothness = 20
+Color = Blue
+#-------------------------------
+[PERSIMBERRY]
+Flavor = 10,10,10,0,10
+Smoothness = 20
+Color = Pink
+#-------------------------------
+[LUMBERRY]
+Flavor =  10,10,10,10,0
+Smoothness = 20
+Color = Green
+#-------------------------------
+[SITRUSBERRY]
+Flavor = 0,10,10,10,10
+Smoothness = 20
+Color = Yellow
+#-------------------------------
+[FIGYBERRY]
+Flavor = 15,0,0,0,0
+Smoothness = 25
+Color = Red
+#-------------------------------
+[WIKIBERRY]
+Flavor = 0,15,0,0,0
+Smoothness = 25
+Color = Blue
+#-------------------------------
+[MAGOBERRY]
+Flavor = 0,0,15,0,0
+Smoothness = 25
+Color = Pink
+#-------------------------------
+[AGUAVBERRY]
+Flavor = 0,0,0,15,0
+Smoothness = 25
+Color = Green
+#-------------------------------
+[IAPAPABERRY]
+Flavor = 0,0,0,0,15
+Smoothness = 25
+Color = Yellow
+#-------------------------------
+[RAZZBERRY]
+Flavor = 10,10,0,0,0
+Smoothness = 20
+Color = Red
+#-------------------------------
+[BLUKBERRY]
+Flavor = 0,10,10,0,0
+Smoothness = 20
+Color = Blue
+#-------------------------------
+[NANABBERRY]
+Flavor = 0,0,10,10,0
+Smoothness = 20
+Color = Pink
+#-------------------------------
+[WEPEARBERRY]
+Flavor = 0,0,0,10,10
+Smoothness = 20
+Color = Green
+#-------------------------------
+[PINAPBERRY]
+Flavor = 10,0,0,0,10
+Smoothness = 20
+Color = Yellow
+#-------------------------------
+[POMEGBERRY]
+Flavor = 10,0,10,10,0
+Smoothness = 20
+Color = Red
+#-------------------------------
+[KELPSYBERRY]
+Flavor = 0,10,0,10,10
+Smoothness = 20
+Color = Blue
+#-------------------------------
+[QUALOTBERRY]
+Flavor = 10,0,10,0,10
+Smoothness = 20
+Color = Pink
+#-------------------------------
+[HONDEWBERRY]
+Flavor = 10,10,0,10,0
+Smoothness = 20
+Color = Green
+#-------------------------------
+[GREPABERRY]
+Flavor = 0,10,10,0,10
+Smoothness = 20
+Color = Yellow
+#-------------------------------
+[TAMATOBERRY]
+Flavor = 20,10,0,0,0
+Smoothness = 30
+Color = Red
+#-------------------------------
+[CORNNBERRY]
+Flavor = 0,20,10,0,0
+Smoothness = 30
+Color = Blue
+#-------------------------------
+[MAGOSTBERRY]
+Flavor = 0,0,20,10,0
+Smoothness = 30
+Color = Pink
+#-------------------------------
+[RABUTABERRY]
+Flavor = 0,0,0,20,10
+Smoothness = 30
+Color = Green
+#-------------------------------
+[NOMELBERRY]
+Flavor = 10,0,0,0,20
+Smoothness = 30
+Color = Yellow
+#-------------------------------
+[SPELONBERRY]
+Flavor = 30,10,0,0,0
+Smoothness = 35
+Color = Pink
+#-------------------------------
+[PAMTREBERRY]
+Flavor = 0,30,10,0,0
+Smoothness = 35
+Color = Blue
+#-------------------------------
+[WATMELBERRY]
+Flavor = 0,0,30,10,0
+Smoothness = 35
+Color = Green
+#-------------------------------
+[DURINBERRY]
+Flavor = 0,0,0,30,10
+Smoothness = 35
+Color = Green
+#-------------------------------
+[BELUEBERRY]
+Flavor = 10,0,0,0,30
+Smoothness = 35
+Color = Blue
+#-------------------------------
+[OCCABERRY]
+Flavor = 15,0,10,0,0
+Smoothness = 30
+Color = Red
+#-------------------------------
+[PASSHOBERRY]
+Flavor = 0,15,0,10,0
+Smoothness = 30
+Color = Blue
+#-------------------------------
+[WACANBERRY]
+Flavor = 0,0,15,0,10
+Smoothness = 30
+Color = Yellow
+#-------------------------------
+[RINDOBERRY]
+Flavor = 10,0,0,15,0
+Smoothness = 30
+Color = Green
+#-------------------------------
+[YACHEBERRY]
+Flavor = 0,10,0,0,15
+Smoothness = 30
+Color = Blue
+#-------------------------------
+[CHOPLEBERRY]
+Flavor = 15,0,0,10,0
+Smoothness = 30
+Color = Red
+#-------------------------------
+[KEBIABERRY]
+Flavor = 0,15,0,0,10
+Smoothness = 30
+Color = Green
+#-------------------------------
+[SHUCABERRY]
+Flavor = 10,0,15,0,0
+Smoothness = 30
+Color = Yellow
+#-------------------------------
+[COBABERRY]
+Flavor = 0,10,0,15,0
+Smoothness = 30
+Color = Blue
+#-------------------------------
+[PAYAPABERRY]
+Flavor = 0,0,10,0,15
+Smoothness = 30
+Color = Red
+#-------------------------------
+[TANGABERRY]
+Flavor = 20,0,0,0,10
+Smoothness = 35
+Color = Green
+#-------------------------------
+[CHARTIBERRY]
+Flavor = 10,20,0,0,0
+Smoothness = 35
+Color = Yellow
+#-------------------------------
+[KASIBBERRY]
+Flavor = 0,10,20,0,0
+Smoothness = 35
+Color = Pink
+#-------------------------------
+[HABANBERRY]
+Flavor = 0,0,10,20,0
+Smoothness = 35
+Color = Red
+#-------------------------------
+[COLBURBERRY]
+Flavor = 0,0,0,10,20
+Smoothness = 35
+Color = Pink
+#-------------------------------
+[BABIRIBERRY]
+Flavor = 25,10,0,0,0
+Smoothness = 35
+Color = Green
+#-------------------------------
+[CHILANBERRY]
+Flavor = 0,25,10,0,0
+Smoothness = 35
+Color = Yellow
+#-------------------------------
+[LIECHIBERRY]
+Flavor = 30,10,30,0,0
+Smoothness = 40
+Color = Yellow
+#-------------------------------
+[GANLONBERRY]
+Flavor = 0,30,10,30,0
+Smoothness = 40
+Color = Blue
+#-------------------------------
+[SALACBERRY]
+Flavor = 0,0,30,10,30
+Smoothness = 40
+Color = Green
+#-------------------------------
+[PETAYABERRY]
+Flavor = 30,0,0,30,10
+Smoothness = 40
+Color = Pink
+#-------------------------------
+[APICOTBERRY]
+Flavor = 10,30,0,0,30
+Smoothness = 40
+Color = Blue
+#-------------------------------
+[LANSATBERRY]
+Flavor = 30,10,30,10,30
+Smoothness = 50
+Color = Pink
+#-------------------------------
+[STARFBERRY]
+Flavor = 30,10,30,10,30
+Smoothness = 50
+Color = Green
+#-------------------------------
+[ENIGMABERRY]
+Flavor = 40,10,0,0,0
+Smoothness = 60
+Color = Yellow
+#-------------------------------
+[MICLEBERRY]
+Flavor = 0,40,10,0,0
+Smoothness = 60
+Color = Green
+#-------------------------------
+[CUSTAPBERRY]
+Flavor = 0,0,40,10,0
+Smoothness = 60
+Color = Red
+#-------------------------------
+[JABOCABERRY]
+Flavor = 0,0,0,40,10
+Smoothness = 60
+Color = Yellow
+#-------------------------------
+[ROWAPBERRY]
+Flavor = 10,0,0,0,40
+Smoothness = 60
+Color = Blue
+#-------------------------------
+[ROSELIBERRY]
+Flavor = 0,0,25,10,0
+Smoothness = 35
+Color = Red
+#-------------------------------
+[KEEBERRY]
+Flavor = 30,30,10,10,10
+Smoothness = 50
+Color = Pink
+#-------------------------------
+[MARANGABERRY]
+Flavor = 10,10,30,30,10
+Smoothness = 50
+Color = Yellow

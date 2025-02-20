@@ -1,0 +1,122 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 5
+StartItemStorage = POTION
+Home = 48,42,11,2
+StorageCreator = Bill
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle DP.ogg
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = ZZZZZRED.png
+RunCharset = ZZZZZRED.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_RUINMANIAC.png
+RunCharset = trainer_RUINMANIAC.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = ZZBW Blackbelt (Overworld).png
+RunCharset = ZZBW Blackbelt (Overworld).png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[4]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = ZBRINEY.png
+RunCharset = ZBRINEY.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[5]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_GUITARIST (2).png
+RunCharset = trainer_GUITARIST (2).png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[6]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = Z11.png
+RunCharset = Z11.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[7]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = NPC 06.png
+RunCharset = NPC 06.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[8]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = Anime NPC 07.png
+RunCharset = Anime NPC 07.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[9]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = Anime NPC 10.png
+RunCharset = Anime NPC 10.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[10]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_LASS (2).png
+RunCharset = trainer_LASS (2).png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[11]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_PAINTER (2).png
+RunCharset = trainer_PAINTER (2).png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[12]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = Anime NPC 16.png
+RunCharset = Anime NPC 16.png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[13]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_LASS (3).png
+RunCharset = trainer_LASS (3).png
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[15]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = VoBoat.png
+RunCharset = VVVVVBoat.png

@@ -1,0 +1,54 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Mulberry (2) - Mulberryport (48)
+2,South,0,48,North,3
+# Sagabourne Bridge (168) - Mulberryport (48)
+168,North,0,48,South,16
+# West Steamtown (95) - Steamtown (80)
+95,East,2,80,West,0
+# Cape Corsola (86) - Pointown (156)
+86,North,84,156,South,0
+# Pioneer Trail (96) - Sleeping Peaks (97)
+96,North,0,97,South,0
+# Remoraid Rapids (98) - Pioneer Trail (96)
+98,West,0,96,East,17
+# Mudkip Marsh (102) - Pioneer Trail (96)
+102,West,0,96,East,0
+# Berkshire (99) - Sleeping Peaks (97)
+99,West,0,97,East,12
+# Mudkip Marsh (102) - Sleeping Peaks (97)
+102,North,0,97,South,44
+# MAP242 (242) - Sleeping Peaks (97)
+242,West,3,97,East,0
+# Remoraid Rapids (98) - Berkshire (99)
+98,North,24,99,South,0
+# Mudkip Marsh (102) - Remoraid Rapids (98)
+102,South,0,98,North,0
+# Mudkip Marsh (102) - Berkshire (99)
+102,East,0,99,West,23
+# MAP242 (242) - Berkshire (99)
+242,South,0,99,North,0
+# Stone University (101) - Route II (126)
+101,East,0,126,West,10
+# MAP242 (242) - Mudkip Marsh (102)
+242,West,38,102,East,0
+# Quincy Quarries (128) - Route II (126)
+128,West,0,126,East,13
+# Lake of Hearts (177) - Route II (126)
+177,North,0,126,South,5
+# Lake of Hearts (177) - Quincy Quarries (128)
+177,East,0,128,West,32
+# Rivren (151) - Lake of Hearts (177)
+151,East,8,177,West,0
+# Bolton Tunnels (167) - Echo Station (253)
+167,West,1,253,East,0
+# Tester Towers (200) - Revolution Records (199)
+200,0,205,199,316,0
+# Castle Beach (110) - Steamtree Forest (33)
+110,West,0,33,East,37
+# Route I (79) - Steamtree Forest (33)
+79,West,2,33,East,0
+# Glacier Bowl (77) - Steamtree Forest (33)
+77,South,13,33,North,0
+# Route I (79) - Castle Beach (110)
+79,South,0,110,North,0

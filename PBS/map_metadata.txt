@@ -1,0 +1,1378 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Giore
+Name = Intro
+#-------------------------------
+[002]   # Mulberry
+Name = Mulberry
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,13
+BattleBack = fredrico
+WildBattleBGM = Johto Wild 13.ogg
+TrainerBattleBGM = Fredrico.ogg
+WildVictoryBGM = Victory 1.ogg
+Environment = None
+#-------------------------------
+[003]   # \PN's house
+Name = \PN's House
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Pokémon Lab
+Name = Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[006]   # Kurt's house
+Name = Kurt's house
+MapPosition = 0,13,11
+#-------------------------------
+[007]   # Cedolan City
+Name = Celodan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]   # Daisy's house
+Name = Daisy's house
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Cedolan City Poké Center
+Name = Cedolan City Poké Center
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]   # Cedolan Gym
+Name = Cedolan Gym
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+#-------------------------------
+[011]   # Pokémon Institute
+Name = Pokémon Institute
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Cedolan City Condo
+Name = Cedolan City Condo
+MapPosition = 0,14,10
+#-------------------------------
+[013]   # Game Corner
+Name = Game Corner
+MapPosition = 0,14,10
+#-------------------------------
+[014]   # Cedolan Dept. 1F
+Name = Cedolan Dept. 1F
+MapPosition = 0,13,10
+#-------------------------------
+[015]   # Cedolan Dept. 2F
+Name = Cedolan Dept. 2F
+MapPosition = 0,13,10
+#-------------------------------
+[016]   # Cedolan Dept. 3F
+Name = Cedolan Dept. 3F
+MapPosition = 0,13,10
+#-------------------------------
+[017]   # Cedolan Dept. 4F
+Name = Cedolan Dept. 4F
+MapPosition = 0,13,10
+#-------------------------------
+[018]   # Cedolan Dept. 5F
+Name = Cedolan Dept. 5F
+MapPosition = 0,13,10
+#-------------------------------
+[019]   # Cedolan Dept. Rooftop
+Name = Cedolan Dept. Rooftop
+MapPosition = 0,13,10
+#-------------------------------
+[020]   # Cedolan Dept. Elevator
+Name = Cedolan Dept. Elevator
+MapPosition = 0,13,10
+#-------------------------------
+[021]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[022]   # S.S. Aqua
+Name = S.S. Aqua
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[023]   # Lerucean Town
+Name = Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]   # Lerucean Town Poké Center
+Name = Lerucean Town Poké Center
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]   # Lerucean Town Mart
+Name = Lerucean Town Mart
+MapPosition = 0,15,8
+#-------------------------------
+[026]   # Pokémon Fan Club
+Name = Pokémon Fan Club
+MapPosition = 0,15,8
+#-------------------------------
+[027]   # Pokémon Day Care
+Name = Pokémon Day Care
+MapPosition = 0,15,8
+#-------------------------------
+[028]   # Natural Park
+Name = Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+#-------------------------------
+[029]   # Natural Park Entrance
+Name = Natural Park Entrance
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]   # Natural Park Pavillion
+Name = Natural Park Pavillion
+MapPosition = 0,16,8
+#-------------------------------
+[031]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[033]   # Steamtree Forest
+Name = Steamytree Forest
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+MapPosition = 0,10,14
+SnapEdges = false
+Dungeon = false
+BattleBack = forest
+WildBattleBGM = Kanto Destiny Deoxis.ogg
+TrainerBattleBGM = Kanto Trainer FRLG (Dec).ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+Environment = ForestGrass
+#-------------------------------
+[034]   # Ice Cave
+Name = Ice Cave
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[035]   # Ingido Plateau
+Name = Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]   # Pokémon League
+Name = Pokémon League
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]   # Pokémon League
+Name = Pokémon League
+MapPosition = 0,13,6
+BattleBack = elite1
+#-------------------------------
+[038]   # Hall of Fame
+Name = Hall of Fame
+MapPosition = 0,13,6
+#-------------------------------
+[039]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[040]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[042]   # Commonwealth Cave
+Name = Commonwealth Cave
+ShowArea = true
+MapPosition = 0,17,12
+BattleBack = Cave1
+WildBattleBGM = kanto-mashup_MkaRiLCE.ogg
+TrainerBattleBGM = Johto Trainer 1001.ogg
+#-------------------------------
+[043]   # Root Ranger Base
+Name = Ranger Base
+MapPosition = 0,17,13
+#-------------------------------
+[044]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[045]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]   # Cycling Road gate
+Name = Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]   # Mulberryport
+Name = Mulberryport
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,15
+BattleBack = field
+WildBattleBGM = Johto Wild Anime.ogg
+TrainerBattleBGM = yt5s.com-Pokémon Anime Sound Collection - Kanto Elite Four_Gym Battle Theme-(128kbps).ogg
+#-------------------------------
+[049]   # Rock Cave
+Name = Rock Cave
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[050]   # Rock Cave
+Name = Rock C
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+#-------------------------------
+[051]   # Dungeon
+Name = Dungeon
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[052]   # Battle Frontier
+Name = Battle Frontier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]   # Battle Frontier Poké Center
+Name = Battle Frontier Poké Center
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]   # Battle Frontier Mart
+Name = Battle Frontier Mart
+MapPosition = 0,17,10
+#-------------------------------
+[055]   # Battle Tower
+Name = Battle Tower
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]   # Battle Tower arena
+Name = Battle Tower arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[057]   # Stadium Cup lobby
+Name = Stadium Cup Lobby
+MapPosition = 0,17,10
+#-------------------------------
+[058]   # Battle Palace
+Name = Battle Palace
+MapPosition = 0,17,10
+#-------------------------------
+[059]   # Battle Palace arena
+Name = Battle Palace arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[060]   # Battle Arena
+Name = Battle Arena
+MapPosition = 0,17,10
+#-------------------------------
+[061]   # Battle Arena arena
+Name = Battle Arena arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[062]   # Battle Factory
+Name = Battle Factory
+MapPosition = 0,17,10
+#-------------------------------
+[063]   # Battle Factory intro corridor
+Name = Battle Factory intro corridor
+MapPosition = 0,17,10
+#-------------------------------
+[064]   # Battle Factory arena
+Name = Battle Factory arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[065]   # Battle Factory corridor
+Name = Battle Factory corridor
+MapPosition = 0,17,10
+#-------------------------------
+[066]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]   # Safari Zone gate
+Name = Safari Zone gate
+MapPosition = 0,12,12
+#-------------------------------
+[068]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]   # Route 8
+Name = Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]   # Underwater
+Name = Underwater
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]   # Harbor
+Name = Harbor
+MapPosition = 0,13,13
+#-------------------------------
+[072]   # Berth Island
+Name = Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+#-------------------------------
+[073]   # Faraday Island
+Name = Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+#-------------------------------
+[074]   # Cycling Road gate
+Name = Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]   # Tiall Region
+Name = Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[076]   # Jade's House
+Name = Jade's House
+ShowArea = true
+MapPosition = 0,17,13
+#-------------------------------
+[077]   # Glacier Bowl
+Name = Glacier Bowl
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,60
+MapPosition = 0,11,12
+BattleBack = forest
+WildBattleBGM = Kanto Wild 13 Anime.ogg
+Environment = ForestGrass
+#-------------------------------
+[078]   # Beach Condo
+Name = Beach Condo
+MapPosition = 0,18,13
+#-------------------------------
+[079]   # Route I
+Name = Route I
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,14,14
+BattleBack = field
+WildBattleBGM = Johto Wild.ogg
+TrainerBattleBGM = Fredrico.ogg
+WildVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+WildCaptureME = Pkmn get.ogg
+Environment = Grass
+#-------------------------------
+[080]   # Steamtown
+Name = Steamtown
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,1
+MapPosition = 0,8,15
+BattleBack = field
+WildBattleBGM = Hoenn Wild Alpha.ogg
+TrainerBattleBGM = Galar Wild 2.ogg
+Environment = Sand
+#-------------------------------
+[081]   # Apt #20
+Name = Apt
+ShowArea = true
+#-------------------------------
+[082]   # Mulberry Pokemon Center
+Name = Pokemon Center
+ShowArea = true
+MapPosition = 0,18,13
+#-------------------------------
+[084]   # Rumbling Cave
+Name = Rumbling Cavern
+ShowArea = true
+MapPosition = 0,7,10
+DarkMap = false
+SnapEdges = true
+BattleBack = cave1
+WildBattleBGM = Sinnoh Wild Orchestra.ogg
+TrainerBattleBGM = Kanto Clyve.ogg
+WildVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+Environment = Cave
+#-------------------------------
+[086]   # Cape Corsola
+Name = Cape Corsola
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,18
+BattleBack = water
+WildBattleBGM = Hoenn Wild Alpha.ogg
+TrainerBattleBGM = Fredrico.ogg
+Environment = Sand
+#-------------------------------
+[087]   # The Salty Sneasel
+Name = The Salty Sneasel
+Outdoor = false
+ShowArea = true
+BattleBack = elite6
+TrainerBattleBGM = Gang Battle 2.ogg
+TrainerVictoryBGM = Victory 2.ogg
+#-------------------------------
+[088]   # Eko's Lighthouse
+Name = Eko's Lighthouse
+ShowArea = true
+MapPosition = 0,9,16
+#-------------------------------
+[089]   # Steamtown Pokemon Center
+Name = ST Pokemon Center
+MapPosition = 0,9,15
+#-------------------------------
+[092]   # 100 Sea Street
+Name = 100 Sea Street
+ShowArea = true
+MapPosition = 0,9,15
+#-------------------------------
+[093]   # Steamtown PokeMart
+Name = SteamMart
+ShowArea = true
+#-------------------------------
+[094]   # Steamtown Gym
+Name = Steamtown Gym
+Outdoor = false
+ShowArea = true
+BattleBack = elite7
+TrainerBattleBGM = Kanto Trainer Anime Slow.ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+#-------------------------------
+[095]   # West Steamtown
+Name = West Steamtown
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = city
+WildBattleBGM = Unova Wild Strange.ogg
+TrainerBattleBGM = Kanto Trainer lgp1.ogg
+#-------------------------------
+[096]   # Pioneer Trail
+Name = Pioneer Coast
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,12
+BattleBack = field
+WildBattleBGM = Hoenn Wild Battle.ogg
+TrainerBattleBGM = Sinnoh Barry.ogg
+Environment = Grass
+#-------------------------------
+[097]   # Sleeping Peaks
+Name = Sleeping Peaks
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,8
+BattleBack = rocky
+WildBattleBGM = Sinnoh Wild Battle 4.ogg
+TrainerBattleBGM = Sinnoh Battle.ogg
+Environment = Rock
+#-------------------------------
+[098]   # Remoraid Rapids
+Name = Remoraid Rapids
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,10,11
+BattleBack = forest
+WildBattleBGM = Johto Wild Anime.ogg
+TrainerBattleBGM = Hoenn Battle 6.ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+Environment = TallGrass
+#-------------------------------
+[099]   # Berkshire
+Name = Berkshire
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,9
+BattleBack = field
+WildBattleBGM = yt5s.com-Pokémon Anime Sound Collection - Raid!-(128kbps).ogg
+TrainerBattleBGM = Johto Victory 2.ogg
+#-------------------------------
+[101]   # Stone University
+Name = Stone University
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,6
+BattleBack = city
+TrainerBattleBGM = Bakugo.ogg
+#-------------------------------
+[102]   # Mudkip Marsh
+Name = Mudkip Bogs
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,9
+BattleBack = field
+WildBattleBGM = BRENDAN.mp3
+TrainerBattleBGM = Kanto Wild 13 Anime.ogg
+Environment = StillWater
+#-------------------------------
+[105]   # ALT Below Deck
+Name = Below Deck
+ShowArea = true
+#-------------------------------
+[108]   # Home #1
+Name = Home
+MapPosition = 0,17,13
+#-------------------------------
+[109]   # The Krabby Shack
+Name = The Krabby Shack
+ShowArea = true
+BattleBack = indoor2
+TrainerBattleBGM = Kanto Trainer 15.ogg
+Environment = None
+#-------------------------------
+[110]   # Castle Beach
+Name = Castle Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,16
+BattleBack = field
+WildBattleBGM = Johto Wild Anime.ogg
+TrainerBattleBGM = Kanto Trainer FRLG (Dec).ogg
+#-------------------------------
+[111]   # Lantern Room
+Name = MAP111
+WildBattleBGM = Kanto Destiny Deoxis.ogg
+#-------------------------------
+[112]   # Big Bear Camping Store
+Name = Big Bear Camping Store
+ShowArea = true
+MapPosition = 0,12,13
+#-------------------------------
+[113]   # 93 Eko Street
+Name = 93 Eko Street
+Outdoor = false
+ShowArea = true
+MapPosition = 0,9,15
+#-------------------------------
+[114]   # Rumbling Cavern
+Name = Rumbling Ravine
+ShowArea = true
+DarkMap = true
+BattleBack = cave1
+WildBattleBGM = Johto Gym Battle.ogg
+#-------------------------------
+[115]   # Seaside Cottage
+Name = Seaside Cottage
+ShowArea = true
+MapPosition = 0,14,16
+#-------------------------------
+[116]   # 222 Eko Street
+Name = 250 Eko Street
+ShowArea = true
+MapPosition = 0,9,15
+WildBattleBGM = Unova Wild Strange.ogg
+#-------------------------------
+[117]   # Myra's Herbs
+Name = Myra's Herbs
+MapPosition = 0,9,15
+#-------------------------------
+[118]   # Hidden Wood
+Name = Hidden Wood
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,100
+MapPosition = 0,10,14
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = Hoenn CHILL Trainer.ogg
+Environment = Grass
+#-------------------------------
+[121]   # Roaring Hole
+Name = Roaring Hole
+ShowArea = true
+BattleBack = cave2
+WildBattleBGM = Sinnoh Gym (Ancient).mp3
+#-------------------------------
+[122]   # Lecture Hall
+Name = Lecture Hall
+MapPosition = 0,13,7
+TrainerBattleBGM = Kanto Gym Alpha.ogg
+#-------------------------------
+[125]   # Dorm Commons
+Name = Dorm Commons
+MapPosition = 0,13,6
+TrainerBattleBGM = Hoenn Trainer Zame.ogg
+#-------------------------------
+[126]   # Route II
+Name = Route II
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = field
+WildBattleBGM = Hoenn Rival 3.ogg
+TrainerBattleBGM = Kalos Trainer (Dec).ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+#-------------------------------
+[127]   # Stone PokeCenter
+Name = Stone Pokemon Center
+Outdoor = false
+ShowArea = true
+HealingSpot = 101,51,25
+MapPosition = 0,13,7
+#-------------------------------
+[128]   # Quincy Quarries
+Name = Quincy Quarries
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+MapPosition = 0,18,10
+BattleBack = field
+WildBattleBGM = Galar Wild.ogg
+TrainerBattleBGM = Unova Trainer Battle.ogg
+#-------------------------------
+[129]   # Bolton Arena
+Name = Bolton Arena
+ShowArea = true
+SnapEdges = true
+BattleBack = indoor1
+TrainerBattleBGM = Johto Trainer 201.ogg
+#-------------------------------
+[130]   # Shedinja House
+Name = Shedinja House
+WildBattleBGM = Unova Wild Strange.ogg
+#-------------------------------
+[132]   # ###Bolton###
+Name = Bolton
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,40
+MapPosition = 0,18,6
+SnapEdges = true
+BattleBack = City
+TrainerBattleBGM = Hoenn Trainer Battle 3
+Environment = Snow
+#-------------------------------
+[133]   # Bolton West Connector
+Name = Bolton West Connector
+Name = 
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+#-------------------------------
+[134]   # Paddy's Fit Shop
+Name = Paddy's Fit Shoppe
+MapPosition = 0,9,15
+#-------------------------------
+[135]   # University Gym
+Name = University Gym
+Outdoor = false
+ShowArea = true
+MapPosition = 0,13,7
+DarkMap = false
+BattleBack = indoor7
+TrainerBattleBGM = Hoenn Trainer Battle 3.ogg
+TrainerVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+Environment = None
+#-------------------------------
+[136]   # Spunky house
+Name = Myra's Herbs 2F
+Weather = Fog,100
+#-------------------------------
+[138]   # Apt #14
+Name = WST Ap4
+WildBattleBGM = Unova Wild Strange.ogg
+#-------------------------------
+[141]   # 12 Station Street
+Name = 12 Station Street
+ShowArea = true
+#-------------------------------
+[142]   # Corviknight Inn
+Name = Corviknight Inn
+ShowArea = true
+TrainerBattleBGM = Johto Trainer 200.ogg
+#-------------------------------
+[143]   # Steamtown Pokecenter
+Name = Steamtown Pokecenter
+ShowArea = true
+#-------------------------------
+[145]   # Stone Science Center
+Name = Stone Center of Science
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[146]   # Harbormasters
+Name = Harbormaster
+MapPosition = 0,18,15
+#-------------------------------
+[148]   # Dorm Rooms
+Name = Dorm Rooms
+MapPosition = 0,13,7
+#-------------------------------
+[149]   # Fanuiel Mall
+Name = Faneuil Mall
+ShowArea = true
+Dungeon = false
+#-------------------------------
+[151]   # Rivren
+Name = Rivren
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+MapPosition = 0,12,10
+BattleBack = forest
+Environment = Puddle
+#-------------------------------
+[152]   # Rivren Aquifer
+Name = Rivren Aquifer
+Outdoor = false
+ShowArea = true
+MapPosition = 0,13,12
+SnapEdges = true
+BattleBack = cave2
+WildBattleBGM = Hoenn CHILL Trainer.ogg
+#-------------------------------
+[153]   # Gauntlet
+Name = The Gauntlet
+ShowArea = true
+BattleBack = elite2
+TrainerBattleBGM = Kanto Gym Leader Flicka.ogg
+#-------------------------------
+[155]   # Coast Ruins
+Name = Nameless Ruins
+ShowArea = true
+TrainerBattleBGM = Johto Trainer 1001.ogg
+#-------------------------------
+[156]   # Pointown
+Name = Pointown
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,15
+BattleBack = pointown
+WildBattleBGM = Kalos Battle Anime.ogg
+TrainerBattleBGM = Hoenn Battle 3.ogg
+TrainerVictoryBGM = Victory 1.ogg
+#-------------------------------
+[157]   # Weed Dorm
+Name = Weed Dorm
+Name = 
+Outdoor = true
+Weather = Fog,100
+MapPosition = 0,13,7
+#-------------------------------
+[159]   # Basement Offices
+Name = SSC Basement
+ShowArea = true
+MapPosition = 0,13,6
+BattleBack = Indoor5
+WildBattleBGM = Unova Wild Strange.ogg
+#-------------------------------
+[160]   # Library
+Name = Drake Library
+ShowArea = true
+#-------------------------------
+[161]   # Giore Ranger HQ
+Name = Ranger National HQ
+ShowArea = true
+#-------------------------------
+[163]   # Bolton Rock Club
+Name = Bolton Rock Club!
+ShowArea = true
+#-------------------------------
+[167]   # Bolton Tunnels
+Name = Bolton Underground
+ShowArea = true
+BattleBack = cave3
+WildBattleBGM = Battle Coronet.ogg
+TrainerBattleBGM = Battle Coronet.ogg
+#-------------------------------
+[168]   # Sagabourne Bridge
+Name = Sagabourne Bridge
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,17
+BattleBack = ocean
+Environment = Puddle
+#-------------------------------
+[169]   # Bolton South Connector
+Name = Bolton South Connector
+MapPosition = 0,19,8
+#-------------------------------
+[170]   # OO MULLBERRYPORT
+Name = Open Ocean
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[171]   # OO STEAMTOWN
+Name = Open Ocean
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[173]   # City Services
+Name = City Services
+Outdoor = false
+ShowArea = true
+MapPosition = 0,18,6
+#-------------------------------
+[174]   # Stone Science Center
+Name = SSC Floor 2
+ShowArea = true
+MapPosition = 0,13,7
+#-------------------------------
+[175]   # Capricious Cavern
+Name = Caprecious Cavern
+ShowArea = true
+Dungeon = true
+BattleBack = cave3
+WildBattleBGM = Johto Battle 66.ogg
+Environment = Cave
+#-------------------------------
+[176]   # The Porthole
+Name = The Porthole
+Outdoor = false
+ShowArea = true
+MapPosition = 0,22,15
+BattleBack = indoor2
+#-------------------------------
+[177]   # Lake of Hearts
+Name = Lake of Hearts
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,11
+BattleBack = river
+WildBattleBGM = Hoenn Wild 10.ogg
+TrainerBattleBGM = kanto-mashup_MkaRiLCE.ogg
+#-------------------------------
+[179]   # Harbormasters
+Name = Harbormasters
+ShowArea = true
+MapPosition = 0,18,15
+BattleBack = indoor2
+TrainerBattleBGM = yt5s.com-Pokémon Anime Sound Collection - Raid!-(128kbps) (1).ogg
+#-------------------------------
+[180]   # OO BOLTON
+Name = Open Ocean
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[181]   # OO POINTOWN
+Name = Open Ocean
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[183]   # Battle Studies
+Name = Battle Studies
+ShowArea = true
+MapPosition = 0,13,6
+TrainerBattleBGM = Paldea Trainer Battle.ogg
+#-------------------------------
+[184]   # Capricious Cavern
+Name = Capricious Cavern
+ShowArea = true
+MapPosition = 0,15,6
+BattleBack = cave1
+TrainerBattleBGM = Hoenn CHILL Trainer.ogg
+#-------------------------------
+[185]   # Odd Inlet
+Name = Odd Inlet
+ShowArea = true
+MapPosition = 0,15,6
+BattleBack = cave1
+TrainerBattleBGM = Kanto Trainer Anime Slow.ogg
+#-------------------------------
+[186]   # Skeet's Cave
+Name = Skeet's Cave
+ShowArea = true
+MapPosition = 0,18,10
+BattleBack = cave2
+WildBattleBGM = Kanto Wild Battle B.ogg
+#-------------------------------
+[187]   # Cedolan Dept. 1F
+Name = Bolton Test
+Outdoor = true
+Weather = Blizzard,100
+#-------------------------------
+[189]   # Slippery Cave
+Name = Slippery Cave
+Outdoor = false
+ShowArea = true
+Weather = Storm,0
+MapPosition = 0,13,12
+SnapEdges = true
+#-------------------------------
+[191]   # Brighton Bvd. #1625 
+Name = Brighton Bvd. 1625
+ShowArea = true
+MapPosition = 0,18,7
+#-------------------------------
+[198]   # Art Gallery
+Name = Art Gallery
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[199]   # Revolution Records
+Name = Revolution Records
+Outdoor = false
+ShowArea = true
+MapPosition = 0,18,6
+#-------------------------------
+[200]   # Tester Towers
+Name = Tester Towers
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[201]   # Commonwealth Ave #100
+Name = Commonwealth Ave
+ShowArea = true
+MapPosition = 0,18,7
+#-------------------------------
+[202]   # Soba Johto 
+Name = Soba Johto
+Outdoor = false
+ShowArea = true
+MapPosition = 0,18,6
+#-------------------------------
+[203]   # Big Barb's Barbershop
+Name = Big Barb's Barbershop
+ShowArea = true
+#-------------------------------
+[204]   # Old Colony Theatre
+Name = Old Colony Theatre
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[205]   # Pokemon Fan Club
+Name = Pokemon Fan Club
+ShowArea = true
+MapPosition = 0,18,7
+#-------------------------------
+[206]   # Flicka vs Morty
+Name = Flicka vs Morty
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[207]   # Sunrise Cave 
+Name = Sunrise Cave
+Outdoor = false
+ShowArea = true
+MapPosition = 0,20,9
+BattleBack = cave1
+WildBattleBGM = Hoenn Wild Battle.ogg
+#-------------------------------
+[208]   # Ruin Maniac's Hole
+Name = Ruin Maniac's Hole
+ShowArea = true
+MapPosition = 0,18,10
+#-------------------------------
+[209]   # Construction House
+Name = Construction House
+MapPosition = 0,18,11
+#-------------------------------
+[210]   # Kanto Arena
+Name = Kanto Gauntlet
+ShowArea = true
+BattleBack = Gym2
+#-------------------------------
+[211]   # Pointown Pokemon Center
+Name = Pointown Center
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,15
+SnapEdges = true
+#-------------------------------
+[212]   # Pointown Gym
+Name = Pointown Gym
+Outdoor = false
+ShowArea = true
+MapPosition = 0,21,15
+#-------------------------------
+[213]   # Greenhouse
+Name = Grenhaus
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,16
+SnapEdges = true
+BattleBack = field
+TrainerBattleBGM = Kanto Trainer lgp1.ogg
+#-------------------------------
+[216]   # Cave Corsola
+Name = Cave Corsola
+ShowArea = true
+MapPosition = 0,20,18
+BattleBack = cave1
+WildBattleBGM = Kanto Wild 13 Anime.ogg
+Environment = Cave
+#-------------------------------
+[217]   # Captain's Race
+Name = Mulberryport
+Outdoor = true
+ShowArea = true
+BattleBack = water
+WildBattleBGM = yt5s.com-Pokémon Anime Sound Collection - Raid!-(128kbps)
+TrainerBattleBGM = Johto Trainer 1001.ogg
+#-------------------------------
+[220]   # Mud Street #14
+Name = Wyndon St.
+ShowArea = true
+WildBattleBGM = Johto Wild 13.ogg
+#-------------------------------
+[222]   # Copper St.#2
+Name = Copper St.#2
+Name = 
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[223]   # Copper St.#1
+Name = 1 Bay St
+ShowArea = true
+#-------------------------------
+[225]   # Fishing Guru's
+Name = Fishing Guru's
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,15
+#-------------------------------
+[226]   # Crater Stadium
+Name = Crater Stadium
+Outdoor = true
+ShowArea = true
+BattleBack = Bolton
+Environment = Rock
+#-------------------------------
+[227]   # Tony's Trattoria
+Name = Tony's Trattoria
+ShowArea = true
+#-------------------------------
+[230]   # Pre-Tournament
+Name = Crater Stadium
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+#-------------------------------
+[235]   # Below Deck
+Name = Below Deck
+ShowArea = true
+#-------------------------------
+[241]   # The Salty Sneasel | CLOSED
+Name = The Salty Sneasel
+ShowArea = true
+MapPosition = 0,7,15
+SnapEdges = true
+BattleBack = elite6
+TrainerBattleBGM = yt5s.com-Pokémon Anime Sound Collection - Who is Stronger_ Epic Battle!-(128kbps).ogg
+#-------------------------------
+[243]   # Stone PokeCenter
+Name = Stone PokeCenter
+MapPosition = 0,13,7
+#-------------------------------
+[251]   # Pokemon Center
+Name = Bolton PokeCenter
+ShowArea = true
+HealingSpot = 132,47,27
+TrainerBattleBGM = Sinnoh Barry.ogg
+#-------------------------------
+[253]   # Echo Station
+Name = Echo Station
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BattleBack = elite6
+WildBattleBGM = Johto Wild 150.ogg
+TrainerBattleBGM = Hoenn Battle 3
+WildCaptureME = Evolution success.ogg
+#-------------------------------
+[255]   # WaterfallHouse
+Name = Waterfallhaus
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[257]   # Old North Cemetery
+Name = Old North Cemetary
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 0,19,5
+BattleBack = city
+WildBattleBGM = Johto Trainer 201.ogg
+#-------------------------------
+[263]   # Rivren Pokécenter
+Name = Rivren Center
+ShowArea = true
+#-------------------------------
+[268]   # Rivren Library
+Name = Rivren Library
+ShowArea = true
+#-------------------------------
+[271]   # Research Facility
+Name = Research Facility
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,11
+BattleBack = indoor2
+WildBattleBGM = yt5s.com-�� Battle Vs. Unova Trainer (Pokémon Masters EX) HQ ��-(128kbps).ogg
+#-------------------------------
+[272]   # The Honey King
+Name = Claggy Cavern
+ShowArea = true
+DarkMap = false
+SnapEdges = true
+BattleBack = elite6
+WildVictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+#-------------------------------
+[273]   # Rapids Ranger Base
+Name = Rapids Ranger Base
+ShowArea = true
+MapPosition = 0,12,11
+#-------------------------------
+[278]   # Below
+Name = Drip Drip Drip....
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,21,19
+BattleBack = cave2
+WildBattleBGM = Battle Coronet.ogg
+#-------------------------------
+[279]   # Regina's Chamber
+Name = Regina's Chamber
+Outdoor = false
+ShowArea = true
+BattleBack = elite6
+TrainerBattleBGM = Johto Battle 66.ogg
+#-------------------------------
+[280]   # Shrouded Island
+Name = Shrouded Island
+Outdoor = true
+#-------------------------------
+[281]   # Captain's Cottage
+Name = Captain's Cottage
+Outdoor = true
+MapPosition = 0,22,15
+#-------------------------------
+[283]   # Pointown Mart
+Name = PointownMart
+MapPosition = 0,22,15
+#-------------------------------
+[285]   # Boat Trip
+Name = Boat
+Outdoor = true
+#-------------------------------
+[286]   # Arena - Tournament Begin
+Name = Bolton Arena
+ShowArea = true
+#-------------------------------
+[299]   # Final Battle vs Clyve
+Name = Crater Stadium
+Outdoor = true
+BattleBack = Bolton
+#-------------------------------
+[300]   # Bolton Cove
+Name = King's Cove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,5
+SnapEdges = true
+BattleBack = pointown
+TrainerVictoryBGM = Gym Victory.ogg
+#-------------------------------
+[301]   # Fish Market
+Name = Bolton Fish Market
+ShowArea = true
+#-------------------------------
+[305]   # School Store
+Name = School Store
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[306]   # Unused Office
+Name = Unassigned Office
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,13,6
+DarkMap = true
+BattleBack = indoor6
+WildBattleBGM = Kanto Wild 13 Anime.ogg
+#-------------------------------
+[321]   # Fishing Pavillion
+Name = Fishing Pavillion
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[324]   # FISH FRY
+Name = Fishing Frenzy!
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,13,11
+BattleBack = water
+WildBattleBGM = Hoenn Wild 10.ogg
+#-------------------------------
+[327]   # McNadden's
+Name = McNadden's Pub
+ShowArea = true
+#-------------------------------
+[336]   # Echo Electrical
+Name = Electrical Room
+ShowArea = true
+BattleBack = elite6
+WildBattleBGM = Sinnoh Vs Cressailia.ogg
+#-------------------------------
+[337]   # Victory Point
+Name = Victory Point
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = None,100
+MapPosition = 0,5,8
+SnapEdges = true
+BattleBack = water
+WildBattleBGM = Hoenn Wild 10.ogg
+MapSize = 0,
+Environment = Sand
+#-------------------------------
+[338]   # Winding Cave
+Name = Winding Cave
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,7,9
+DarkMap = true
+BattleBack = cave2
+WildBattleBGM = Kanto Destiny Deoxis.ogg
+#-------------------------------
+[339]   # Bay Path
+Name = Underbay Path
+ShowArea = true
+SnapEdges = true
+BattleBack = cave
+WildBattleBGM = Sinnoh Wild Orchestra.ogg
+#-------------------------------
+[342]   # Greenhouse
+Name = Victory Greenhouse
+Outdoor = true
+ShowArea = false
+MapPosition = 0,5,8
+SafariMap = true
+SnapEdges = true
+#-------------------------------
+[344]   # Cave
+Name = ???
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,12
+DarkMap = true
+SnapEdges = true
+BattleBack = cave1
+#-------------------------------
+[345]   # Post-Tournament
+Name = Crater Stadium
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BattleBack = Bolton
+#-------------------------------
+[347]   # Volcanio
+Name = \/ () |_ {  /\  |\|  ()
+ShowArea = true
+SnapEdges = true
+BattleBack = cave3
+WildBattleBGM = Sinnoh Vs Cressailia.ogg

@@ -1,0 +1,30 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Mulberry (2) - Mulberryport (48)
+2,South,0,48,North,3
+# Steamytree Forest (33) - Route I (79)
+33,East,0,79,West,7
+# Route 1 Beach (110) - Steamytree Forest (33)
+110,West,0,33,East,32
+# Route 1 Beach (110) - Route I (79)
+110,North,0,79,South,0
+# West Steamtown (95) - Steamtown (80)
+95,East,2,80,West,0
+# Pioneer Coast (96) - Mudkip Bogs (102)
+96,East,0,102,West,0
+# Remoraid Rapids (98) - Rainbow Coast (96)
+98,West,0,96,East,17
+# Sleeping Peaks (97) - Rainbow Coast (96)
+97,South,0,96,North,0
+# Sleeping Peaks (97) - Mudkip Bogs (102)
+97,South,44,102,North,0
+# Berkshire (99) - Sleeping Peaks (97)
+99,West,0,97,East,6
+# Remoraid Rapids (98) - Mudkip Bogs (102)
+98,North,0,102,South,0
+# Berkshire (99) - Remoraid Rapids (98)
+99,South,0,98,North,24
+# Berkshire (99) - Mudkip Bogs (102)
+99,West,23,102,East,0
+# Route II (126) - Stone University (101)
+126,West,10,101,East,0

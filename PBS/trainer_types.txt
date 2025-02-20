@@ -1,0 +1,1840 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Brendan]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = BRENDAN.ogg
+#-------------------------------
+[RANGER_CYNDY]
+Name = Giore Ranger
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[LANCE]
+Name = Indigo Champion
+Gender = Male
+BaseMoney = 6000
+SkillLevel = 100
+#-------------------------------
+[POKEMONTRAINER_May]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[BEA]
+Name = Stow-on-Side Leader
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[NEMONA]
+Name = Paldea Champion
+Gender = Female
+BaseMoney = 99
+SkillLevel = 100
+#-------------------------------
+[GYMRAT]
+Name = Gym Rat
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+#-------------------------------
+[POKEMONTRAINER_CLYVE]
+Name = Trainer
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[ASH]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+SkillLevel = 100
+#-------------------------------
+[ACE1]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 1600
+SkillLevel = 100
+#-------------------------------
+[RIVAL2]
+Name = Rival
+Gender = Male
+BaseMoney = 36
+SkillLevel = 100
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+SkillLevel = 30
+IntroBGM = TE Girl.ogg
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+SkillLevel = 40
+IntroBGM = TE Lass2.ogg
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+IntroBGM = TE Big Blue.ogg
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 70
+SkillLevel = 50
+IntroBGM = TE Tennis.ogg
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+SkillLevel = 100
+IntroBGM = TE Tuber.ogg
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 30
+IntroBGM = INTRO Battle Girl.ogg
+#-------------------------------
+[CHANELLER]
+Name = Channeler
+Gender = Female
+BaseMoney = 32
+SkillLevel = 80
+IntroBGM = TE Peony.ogg
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 24
+SkillLevel = 70
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+IntroBGM = TE Barry 2.ogg
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+SkillLevel = 60
+IntroBGM = TE Delfino.ogg
+#-------------------------------
+[FISHERMAN2]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+SkillLevel = 60
+IntroBGM = TE Delfino.ogg
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 90
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+SkillLevel = 70
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[GENTLEMAN1]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+SkillLevel = 70
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 60
+IntroBGM = TE Hiker3.ogg
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Female
+BaseMoney = 16
+SkillLevel = 55
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 64
+SkillLevel = 78
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[POKEMONBREEDER]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+SkillLevel = 40
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 24
+SkillLevel = 70
+IntroBGM = yt5s.com-Electric Guitar _ Sound Effect (Copyright Free)-(128kbps).ogg
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+SkillLevel = 60
+IntroBGM = TE Tennis.ogg
+#-------------------------------
+[SCIENTIST]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+SkillLevel = 69
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+SkillLevel = 100
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[TAMER]
+Name = Tamer
+Gender = Male
+BaseMoney = 40
+SkillLevel = 100
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+SkillLevel = 90
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 24
+SkillLevel = 60
+IntroBGM = TE Barry 2.ogg
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 16
+SkillLevel = 60
+IntroBGM = TE Hiker2.ogg
+#-------------------------------
+[PICNICKER]
+Name = Picnicker
+Gender = Female
+BaseMoney = 16
+SkillLevel = 60
+IntroBGM = TE Twins.ogg
+#-------------------------------
+[COOLTRAINER_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[COOLTRAINER_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+SkillLevel = 30
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+SkillLevel = 40
+IntroBGM = TE Girl.ogg
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+SkillLevel = 90
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+SkillLevel = 90
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+SkillLevel = 88
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[PSYCHIC]
+Name = Psychic
+Gender = Male
+BaseMoney = 50
+SkillLevel = 88
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+SkillLevel = 89
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 65
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 71
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[SWIMMER2]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 60
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[SWIMMER3]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 60
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[SWIMMER4]
+Name = Swimmer
+Gender = Female
+BaseMoney = 44
+SkillLevel = 60
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[TUBER_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 12
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[TUBER_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 33
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[TUBER2_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[TUBER2_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[COOLCOUPLE]
+Name = Cool Couple
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 100
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[CRUSHKIN]
+Name = Crush Kin
+Gender = Unknown
+BaseMoney = 48
+SkillLevel = 67
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[SISANDBRO]
+Name = Sis and Bro
+Gender = Unknown
+BaseMoney = 16
+SkillLevel = 50
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[TWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 24
+SkillLevel = 100
+IntroBGM = TE Battle Girl.ogg
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+IntroBGM = TE Ace.ogg
+#-------------------------------
+[TEAMROCKET_M]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 32
+SkillLevel = 60
+#-------------------------------
+[TEAMROCKET_F]
+Name = Team Rocket
+Gender = Female
+BaseMoney = 32
+SkillLevel = 60
+#-------------------------------
+[ROCKETBOSS]
+Name = Rocket Boss
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[LEADER_Brock]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym 1001.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Misty]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Kanto Gym Beta.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Surge]
+Name = Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Hoenn Elite Four MEGA.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Erika]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 420
+SkillLevel = 100
+BattleBGM = Kanto Gym 100.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Koga]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym Beta.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Sabrina]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Kanto Gym Koki FRLG.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Blaine]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym 56.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[LEADER_Giovanni]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym Gamma.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[ELITEFOUR_Lorelei]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Kanto Gym Koki FRLG.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[ELITEFOUR_Bruno]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym 100.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[ELITEFOUR_Agatha]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Kanto Gym Delta.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[ELITEFOUR_Lance]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym Alpha.ogg
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Champion A.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[JADE]
+Name = PKMN Trainer
+Gender = Female
+BaseMoney = 100
+BattleBGM = Primal Dialga
+#-------------------------------
+[JADE1]
+Name = Rival
+Gender = Female
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Primal Dialga
+#-------------------------------
+[GENT]
+Name = Fredrico
+Gender = Male
+BaseMoney = 100
+BattleBGM = Fredrico
+#-------------------------------
+[POKEMONTRAINER_Flicka]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[FREDRICO]
+Name = Famous Pokemon Collector
+Gender = Male
+BaseMoney = 100
+BattleBGM = Fredrico.ogg
+#-------------------------------
+[STRANGER]
+Name = Stranger
+Gender = Male
+BaseMoney = 100
+SkillLevel = 50
+#-------------------------------
+[MOBSTER]
+Name = Mobster
+Gender = Male
+BaseMoney = 100
+SkillLevel = 60
+#-------------------------------
+[RANGER_Gerry]
+Name = Rookie Ranger
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[HIPPIE]
+Name = Hippie
+Gender = Male
+BaseMoney = 30
+SkillLevel = 50
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[POKEMONTRAINER_ERIKA]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 100
+BattleBGM = FRLG Trainer Battle MASHUP
+#-------------------------------
+[JOGGER]
+Name = Jogger
+Gender = Male
+BaseMoney = 30
+SkillLevel = 60
+#-------------------------------
+[OLDLADY]
+Name = Old Lady
+Gender = Female
+BaseMoney = 30
+SkillLevel = 70
+IntroBGM = TE Battle Girl.ogg
+#-------------------------------
+[JOY]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 80
+BattleBGM = Kanto Clyve.ogg
+#-------------------------------
+[TRAINERJOY]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 100
+IntroBGM = TE Delfino.ogg
+BattleBGM = Kanto Clyve.ogg
+VictoryBGM = yt5s.com-Pokémon Anime BGM - Fanfare! Get Pokémon (1997~1998-M32)-(128kbps).ogg
+#-------------------------------
+[RANGER]
+Name = Ranger
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = INTRO Battle Girl.ogg
+BattleBGM = Sinnoh Wild Orchestra.ogg
+#-------------------------------
+[CUTECOUPLE]
+Name = Cute Couple
+Gender = Unknown
+BaseMoney = 30
+SkillLevel = 80
+#-------------------------------
+[BOSS]
+Name = Boss
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+#-------------------------------
+[CLYVEA]
+Name = Trainer
+Gender = Male
+BaseMoney = 100
+BattleBGM = Kanto Gym Coolkat.ogg
+#-------------------------------
+[CLYVE]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 100
+BattleBGM = Johto CHAMPION.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[OAK]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[AMIK]
+Name = Giore Ranger
+Gender = Male
+BaseMoney = 105
+SkillLevel = 55
+BattleBGM = yt5s.com-Pokémon Anime Sound Collection - Kanto Elite Four_Gym Battle Theme-(128kbps).ogg
+VictoryBGM = Battle victory trainer.ogg
+#-------------------------------
+[AMIKA]
+Name = Giore Ranger
+Gender = Male
+BaseMoney = 105
+SkillLevel = 75
+BattleBGM = Sinnoh Gym 40.ogg
+VictoryBGM = Battle victory trainer.ogg
+#-------------------------------
+[AMIKAA]
+Name = Giore Ranger
+Gender = Male
+BaseMoney = 105
+SkillLevel = 100
+BattleBGM = Hoenn Gym 200.ogg
+VictoryBGM = Battle victory trainer.ogg
+#-------------------------------
+[LEADER_Flicka]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+IntroBGM = TE Peony.ogg
+BattleBGM = Kanto Gym 100.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[GYMLEADER_Alvarez]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Sinnoh Gym 100
+#-------------------------------
+[MARNIE]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Marnie.ogg
+#-------------------------------
+[ROXIE]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[GYMLEADER_Hugo]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 1000
+SkillLevel = 100
+BattleBGM = Sinnoh Gym 40.ogg
+#-------------------------------
+[RITCHIE]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[BACKPACKER]
+Name = Backpacker
+Gender = Female
+BaseMoney = 80
+SkillLevel = 60
+IntroBGM = TE Lass2.ogg
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 80
+SkillLevel = 60
+IntroBGM = TE Ace.ogg
+#-------------------------------
+[HIKER2]
+Name = Hiker
+Gender = Male
+BaseMoney = 80
+IntroBGM = TE Hiker2.ogg
+#-------------------------------
+[SUPERNERD2]
+Name = Supernerd
+Gender = Male
+BaseMoney = 80
+SkillLevel = 99
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[BEAUTY2]
+Name = Socialite
+Gender = Female
+BaseMoney = 80
+SkillLevel = 55
+IntroBGM = TE Barry.ogg
+#-------------------------------
+[ACETRAINER]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 100
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[ACETRAINER_F]
+Name = Ace Trainer
+Gender = Female
+BaseMoney = 100
+IntroBGM = TE Battle Girl.ogg
+#-------------------------------
+[CAPTAINS]
+Name = Captain
+Gender = Female
+BaseMoney = 100
+IntroBGM = TE Battle Girl.ogg
+#-------------------------------
+[WORKER]
+Name = Worker
+Gender = Male
+BaseMoney = 100
+SkillLevel = 60
+IntroBGM = TE Ace (2).ogg
+#-------------------------------
+[CHEF]
+Name = Head Chef
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+#-------------------------------
+[FLANNERY]
+Name = Hoenn Leader
+Gender = Female
+BaseMoney = 500
+SkillLevel = 100
+BattleBGM = Hoenn Gym Coolkat.ogg
+#-------------------------------
+[ROXANNE]
+Name = Hoenn Leader
+Gender = Female
+BaseMoney = 500
+SkillLevel = 100
+#-------------------------------
+[CAPTAIN]
+Name = Captain
+Gender = Male
+BaseMoney = 1000
+SkillLevel = 100
+BattleBGM = Hoenn Gym Coolkat.ogg
+#-------------------------------
+[CECILY]
+Name = Trainer
+Gender = Female
+BaseMoney = 1000
+SkillLevel = 100
+#-------------------------------
+[BIKERGIRL]
+Name = Biker Girl
+Gender = Female
+BaseMoney = 1000
+SkillLevel = 66
+IntroBGM = TE Youngster (2).ogg
+BattleBGM = Kanto Trainer lgp1.ogg
+#-------------------------------
+[BIKERBOY]
+Name = Biker
+Gender = Female
+BaseMoney = 1000
+SkillLevel = 78
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[SCHOOLGIRL]
+Name = Schoolgirl
+Gender = Female
+BaseMoney = 30
+SkillLevel = 70
+IntroBGM = TE Twins.ogg
+#-------------------------------
+[CY]
+Name = Sophomore
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+#-------------------------------
+[CYNTHIA]
+Name = Sinnoh Champion
+Gender = Female
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = CYNTHIA.ogg
+#-------------------------------
+[CYNTHIA_1]
+Name = Sinnoh Champion
+Gender = Female
+BaseMoney = 31
+SkillLevel = 100
+BattleBGM = CYNTHIA.ogg
+#-------------------------------
+[JASMINE]
+Name = Olivine Gym Leader
+Gender = Female
+BaseMoney = 31
+SkillLevel = 100
+BattleBGM = Johto Gym Battle.ogg
+#-------------------------------
+[RANGER_f]
+Name = Ranger
+Gender = Female
+BaseMoney = 300
+SkillLevel = 100
+IntroBGM = INTRO Battle Girl.ogg
+#-------------------------------
+[BACKPACKER_1]
+Name = Backpacker
+Gender = Male
+BaseMoney = 35
+SkillLevel = 69
+#-------------------------------
+[BACKPACKER_M]
+Name = Backpacker
+Gender = Male
+BaseMoney = 31
+SkillLevel = 75
+BattleBGM = Hoenn Trainer 101.ogg
+#-------------------------------
+[JAMU]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 31
+SkillLevel = 100
+#-------------------------------
+[BEACHGIRL]
+Name = Beach Girl
+Gender = Female
+BaseMoney = 50
+SkillLevel = 93
+IntroBGM = TE Girl.ogg
+#-------------------------------
+[BLACKBELT2]
+Name = Black Belt
+Gender = Male
+BaseMoney = 30
+SkillLevel = 89
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[HIKER2_1]
+Name = Hiker
+Gender = Male
+BaseMoney = 30
+SkillLevel = 80
+#-------------------------------
+[HIKER3]
+Name = Hiker
+Gender = Male
+BaseMoney = 30
+SkillLevel = 90
+IntroBGM = TE Hiker3.ogg
+#-------------------------------
+[PSYCHICF2]
+Name = Psychic
+Gender = Female
+BaseMoney = 30
+SkillLevel = 90
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[RICHKID2]
+Name = Rich Kid
+Gender = Male
+BaseMoney = 30
+SkillLevel = 60
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[DANCER]
+Name = Dancer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[DANCERF]
+Name = Dancer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 80
+IntroBGM = TE Lass2.ogg
+#-------------------------------
+[TUBER]
+Name = Tuber
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[DRAGONTAMER]
+Name = Dragon Tamer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[ELAINE]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 50
+SkillLevel = 60
+IntroBGM = TE Lass2.ogg
+#-------------------------------
+[EMMA]
+Name = Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 60
+#-------------------------------
+[ERBIE]
+Name = Engineer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 80
+#-------------------------------
+[BOXER]
+Name = Boxer
+Gender = Male
+BaseMoney = 130
+SkillLevel = 80
+#-------------------------------
+[FIREBREATHER]
+Name = Firebreather
+Gender = Male
+BaseMoney = 74
+#-------------------------------
+[FOOTBALLER]
+Name = Footballer
+Gender = Male
+BaseMoney = 240
+SkillLevel = 60
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[WISEMAN]
+Name = Wiseman
+Gender = Male
+BaseMoney = 10
+SkillLevel = 100
+#-------------------------------
+[GENTLEMAN_2]
+Name = GENTLEMAN_2
+Gender = Male
+BaseMoney = 240
+SkillLevel = 80
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[GENTLEMAN3]
+Name = GENTLEMAN3
+Gender = Male
+BaseMoney = 150
+SkillLevel = 88
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[LUMBERJACK]
+Name = Lumberjack
+Gender = Male
+BaseMoney = 20
+SkillLevel = 70
+#-------------------------------
+[CELIO]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[COWGIRL]
+Name = Cowgirl
+Gender = Female
+BaseMoney = 10
+SkillLevel = 60
+#-------------------------------
+[RICKON]
+Name = RICKON
+Gender = Male
+BaseMoney = 30
+SkillLevel = 60
+#-------------------------------
+[ELIJAH]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[HALI]
+Name = Rockstar
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+#-------------------------------
+[GIBRALTAR]
+Name = Rockstar
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+#-------------------------------
+[SCARLET]
+Name = Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[MINER]
+Name = Miner
+Gender = Male
+BaseMoney = 30
+SkillLevel = 60
+#-------------------------------
+[BETH]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[LISA]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[MAGGIE]
+Name = Trainer
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+#-------------------------------
+[NINJA]
+Name = NINJA
+Gender = Male
+BaseMoney = 50
+SkillLevel = 96
+IntroBGM = TE Ace Unova.ogg
+#-------------------------------
+[PARISOLLADY2]
+Name = PARISOLLADY2
+Gender = Female
+BaseMoney = 50
+SkillLevel = 66
+#-------------------------------
+[PARISOLLADY3]
+Name = PARISOLLADY3
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PITCHER]
+Name = PITCHER
+Gender = Male
+BaseMoney = 80
+SkillLevel = 60
+#-------------------------------
+[POKEKID]
+Name = Pokekid
+Gender = Male
+BaseMoney = 1
+SkillLevel = 40
+#-------------------------------
+[POKEKIDEEVEE]
+Name = Pokekid
+Gender = Female
+BaseMoney = 50
+SkillLevel = 60
+#-------------------------------
+[WILDRANGER]
+Name = WILDRANGER
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[MAGICIAN]
+Name = Magician
+Gender = Male
+BaseMoney = 130
+SkillLevel = 70
+#-------------------------------
+[PRETTYGIRL]
+Name = Pretty Girl
+Gender = Female
+BaseMoney = 50
+SkillLevel = 60
+IntroBGM = TE Girl.ogg
+#-------------------------------
+[PSYCHIC3]
+Name = Psychic
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[PSYCHICF3]
+Name = PSYCHICF3
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[PSYCHICF2_1]
+Name = PSYCHICF2
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[PSYCHICF4]
+Name = Psychic
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = TE Psychic.ogg
+#-------------------------------
+[PSYCHICM2]
+Name = Psychic
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[PUNKGUY]
+Name = PUNKGUY
+Gender = Male
+BaseMoney = 10
+SkillLevel = 77
+#-------------------------------
+[NEERDOWELL]
+Name = Ne'erdowell
+Gender = Male
+BaseMoney = 50
+SkillLevel = 60
+#-------------------------------
+[TWINS2]
+Name = Twins
+Gender = Unknown
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[ACEDUO]
+Name = Ace Trainers
+Gender = Unknown
+BaseMoney = 100
+#-------------------------------
+[COWBOY]
+Name = COWBOY
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+#-------------------------------
+[GAMEMASTER]
+Name = GAMEMASTER
+Gender = Male
+BaseMoney = 230
+SkillLevel = 100
+#-------------------------------
+[RANGER_JUDE]
+Name = Ranger
+Gender = Male
+BaseMoney = 51
+SkillLevel = 100
+#-------------------------------
+[SCHOOLGIRL2]
+Name = School Girl
+Gender = Female
+BaseMoney = 30
+SkillLevel = 60
+IntroBGM = TE Lass2.ogg
+#-------------------------------
+[SIGHTSEER]
+Name = Sightseer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 70
+IntroBGM = TE Youngster (2).ogg
+BattleBGM = KANTO Wild LGP.ogg
+#-------------------------------
+[SISTERS]
+Name = SISTERS
+Gender = Female
+BaseMoney = 50
+SkillLevel = 59
+#-------------------------------
+[MARLA]
+Name = MARLA
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[SKIER]
+Name = SKIER
+Gender = Male
+BaseMoney = 30
+SkillLevel = 90
+#-------------------------------
+[SKIER_F]
+Name = SKIER_F
+Gender = Female
+BaseMoney = 30
+SkillLevel = 90
+#-------------------------------
+[SKIER_F2]
+Name = SKIER_F2
+Gender = Male
+BaseMoney = 30
+SkillLevel = 78
+#-------------------------------
+[SKIER_1]
+Name = SKIER
+Gender = Male
+BaseMoney = 30
+SkillLevel = 79
+#-------------------------------
+[SKIER_M]
+Name = SKIER_M
+Gender = Male
+BaseMoney = 30
+SkillLevel = 67
+#-------------------------------
+[SKIER_M2]
+Name = SKIER_M2
+Gender = Male
+BaseMoney = 30
+SkillLevel = 65
+#-------------------------------
+[SNOW_F]
+Name = SNOW_F
+Gender = Female
+BaseMoney = 30
+SkillLevel = 69
+#-------------------------------
+[SNOW_M]
+Name = SNOW_M
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[DARIUS]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+#-------------------------------
+[STREETTHUG]
+Name = STREETTHUG
+Gender = Male
+BaseMoney = 30
+SkillLevel = 65
+#-------------------------------
+[STREETTHUG2]
+Name = STREETTHUG2
+Gender = Male
+BaseMoney = 30
+SkillLevel = 67
+#-------------------------------
+[SURFER]
+Name = SURFER
+Gender = Male
+BaseMoney = 30
+SkillLevel = 55
+#-------------------------------
+[AUTUMMN]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[ARTIST]
+Name = Artist
+Gender = Male
+BaseMoney = 30
+SkillLevel = 69
+IntroBGM = TE Artist.ogg
+#-------------------------------
+[AUTUMN]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[SWIMMER3_1]
+Name = SWIMMER3
+Gender = Female
+BaseMoney = 30
+SkillLevel = 69
+#-------------------------------
+[SWIMMER4_1]
+Name = SWIMMER4
+Gender = Male
+BaseMoney = 30
+SkillLevel = 69
+#-------------------------------
+[SWIMMER5]
+Name = Swimmer
+Gender = Female
+BaseMoney = 50
+SkillLevel = 69
+#-------------------------------
+[TINA]
+Name = Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[TOURISTF2]
+Name = Tourist
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+BattleBGM = Johto Trainer 1000.ogg
+#-------------------------------
+[SWIMMERM2]
+Name = Swimmer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 88
+#-------------------------------
+[TUBER2]
+Name = Tuber
+Gender = Male
+BaseMoney = 10
+SkillLevel = 60
+#-------------------------------
+[JAE]
+Name = JAE
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[OSMO]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[JESSICA]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[BUGEXPERT]
+Name = Bug Expert
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[JESIBELLE]
+Name = JESIBELLE
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[ELLA]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[JOSEPHINE]
+Name = Ghost Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+IntroBGM = TE Peony.ogg
+#-------------------------------
+[SCIENTISTF]
+Name = SCIENTISTF
+Gender = Female
+BaseMoney = 30
+SkillLevel = 60
+#-------------------------------
+[LEAH]
+Name = Trainer
+Gender = Female
+BaseMoney = 130
+SkillLevel = 60
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[SINIA]
+Name = Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[ROMAN]
+Name = Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[ESTABAN]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[NOURA]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 35
+SkillLevel = 100
+#-------------------------------
+[GOLD]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 35
+SkillLevel = 100
+#-------------------------------
+[SKIIER_M]
+Name = Skiier
+Gender = Male
+BaseMoney = 35
+SkillLevel = 80
+#-------------------------------
+[SKIIER_F]
+Name = Skiier
+Gender = Female
+BaseMoney = 35
+SkillLevel = 80
+#-------------------------------
+[CHEF2]
+Name = Chef
+Gender = Male
+BaseMoney = 35
+SkillLevel = 100
+#-------------------------------
+[NESSA]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 500
+SkillLevel = 100
+#-------------------------------
+[STUDENT]
+Name = Naranja Student
+Gender = Female
+BaseMoney = 500
+SkillLevel = 50
+#-------------------------------
+[BUGCATCHER1]
+Name = Bug Catcher
+Gender = Female
+BaseMoney = 16
+SkillLevel = 100
+IntroBGM = yt5s.com-Pokémon Anime BGM - Boy Appears (1997_1998-M55)-(128kbps).ogg
+#-------------------------------
+[MISTY]
+Name = Cerulean Leader
+Gender = Female
+BaseMoney = 130
+SkillLevel = 100
+BattleBGM = Kanto Gym Theme Anime.ogg
+#-------------------------------
+[PIRATE]
+Name = Pirate
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = TE Ace.ogg
+BattleBGM = Hoenn vs Team Aqua 5.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[SURFER1]
+Name = Surfer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 60
+IntroBGM = TE Surfer.ogg
+BattleBGM = Hoenn Battle Beach.ogg
+#-------------------------------
+[SURFER2]
+Name = Surfer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 76
+IntroBGM = TE Surfer.ogg
+BattleBGM = Hoenn Battle Beach.ogg
+#-------------------------------
+[SCOTT]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[HAYLEY]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+BattleBGM = Johto Wild Anime.ogg
+#-------------------------------
+[TOURISTFE]
+Name = TOURISTfE
+Gender = Female
+BaseMoney = 30
+SkillLevel = 80
+#-------------------------------
+[TOURISTF2_1]
+Name = TOURISTf2
+Gender = Female
+BaseMoney = 230
+SkillLevel = 80
+#-------------------------------
+[OLDERLADY]
+Name = Older Lady
+Gender = Female
+BaseMoney = 240
+SkillLevel = 100
+#-------------------------------
+[SAILOR2]
+Name = Sailor
+Gender = Male
+BaseMoney = 20
+SkillLevel = 90
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[SAILOR1]
+Name = Sailor
+Gender = Male
+BaseMoney = 20
+SkillLevel = 90
+IntroBGM = TE Hoenn Ace.ogg
+#-------------------------------
+[LUCAS]
+Name = Sinnoh Trainer
+Gender = Male
+BaseMoney = 100
+BattleBGM = Sinnoh Gym Quiet-Loud.ogg
+#-------------------------------
+[WYATT]
+Name = Wildlands Trainer
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+BattleBGM = Sinnoh LUCAS.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[LEADER_Surge1]
+Name = Leader
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+BattleBGM = Kanto Gym Battle.ogg
+VictoryBGM = Victory 1.ogg
+#-------------------------------
+[YOUNGSTER2]
+Name = Youngster
+Gender = Male
+BaseMoney = 30
+SkillLevel = 70
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[YOUNGSTER5]
+Name = Youngster
+Gender = Male
+BaseMoney = 30
+SkillLevel = 67
+IntroBGM = TE Youngster (2).ogg
+#-------------------------------
+[LEAH_1]
+Name = LEAH
+Gender = Female
+BaseMoney = 40
+SkillLevel = 90
+#-------------------------------
+[BUGCATCHER_F]
+Name = BUGCATCHER_F
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[YOUNGSTER_F]
+Name = Youngster
+Gender = Female
+BaseMoney = 30
+SkillLevel = 70
+IntroBGM = TE Tuber.ogg
+#-------------------------------
+[MOBSTER1]
+Name = Mobster
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[MOBSTERBOSS]
+Name = Boss
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+#-------------------------------
+[GARDENER]
+Name = Gardener
+Gender = Female
+BaseMoney = 30
+SkillLevel = 60
+IntroBGM = TE Delfino.ogg
+#-------------------------------
+[ACE]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 3
+SkillLevel = 100
+BattleBGM = Sinnoh Gym Leader Fantina.ogg
+VictoryBGM = Gym Victory.ogg
+#-------------------------------
+[BOOKGIRL]
+Name = Bookworm
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[GYMLEADER_Brawly]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = Hoenn Gym Coolkat.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[RISINGSTAR_M]
+Name = Trainer
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+#-------------------------------
+[RISINGSTAR_F]
+Name = Trainer
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+#-------------------------------
+[JUAN]
+Name = Hoenn Gym Leader
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = Hoenn Gym Coolkat.ogg
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[LASS1]
+Name = Lass
+Gender = Female
+BaseMoney = 300
+SkillLevel = 60
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[BEAUTY1]
+Name = Beauty
+Gender = Female
+BaseMoney = 300
+SkillLevel = 60
+VictoryBGM = Victory 2.ogg
+#-------------------------------
+[BARRY]
+Name = Trainer
+Gender = Male
+BaseMoney = 500
+SkillLevel = 100
+#-------------------------------
+[BUGTWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 500
+SkillLevel = 100
+BattleBGM = Johto Trainer 1001.ogg
+#-------------------------------
+[BEEKEEPER]
+Name = Bee Keeper
+Gender = Male
+BaseMoney = 500
+SkillLevel = 100
+#-------------------------------
+[OFFICER]
+Name = Officer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[RAFE]
+Name = Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[SID]
+Name = Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[BUGSY]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+#-------------------------------
+[TYPE]
+Name = Gym Leaders
+Gender = Unknown
+BaseMoney = 200
+SkillLevel = 100
+#-------------------------------
+[NORMAN]
+Name = Petalburg Leader
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+#-------------------------------
+[JOEY]
+Name = Young Man
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+#-------------------------------
+[ALDER]
+Name = Unova Champion
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+#-------------------------------
+[WIELDER]
+Name = Weilder
+Gender = Male
+BaseMoney = 0
+SkillLevel = 100
+#-------------------------------
+[WEATHERMAN]
+Name = Weatherman
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[WINSTRATE_1]
+Name = Winstrate
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[WINSTRATE_2]
+Name = Winstrate
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[WINSTRATE_3]
+Name = Winstrate
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[WINSTRATE_4]
+Name = Winstrate
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[WINSTRATE_5]
+Name = Winstrate
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+#-------------------------------
+[COLIN]
+Name = Victory Developer
+Gender = Male
+BaseMoney = 50000
+SkillLevel = 100

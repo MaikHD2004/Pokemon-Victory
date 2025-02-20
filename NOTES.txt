@@ -1,0 +1,38 @@
+General opinion
++ interesting intro
+- should be compiled in the future to reduce size of download
+- esc to run? shift would be more natural, same goes for menu esc to open up the menu feels better
++ items in the bins are nice, haven't seen that in a while
++ Pokémon running around in the wild, is a nice detail
+- balancing feels off a bit
++ good music
+- loops from the music could be better though
+- encounter rate is a bit high
+- steamtree forest double battle could be rebalanced a bit, that Syther can one shot Pokémon on the same level with Acrobats
+
+Quality of life suggestions
+- maybe add that you don't need to listen to all the talking after a loss in battle
+- Consistency in menu operation, needs shift to open up menu, but can leave with esc
+- IV/EV view in Pokémon menu?
+- add that the selection on which Pokémon is attacking who in double battle stays where it was the round before
+- maybe add a sort of quest book to look up on what to do
+- move the route 1 healing ranger to a different position as the center is rather close
+- early xp share for easier leveling would be nice
+
+Visual Bugs:
+- Commonwealth cave, exit Mulberry, sprite layering is wrong
+- After beating ranger blocking route 1, and heading back to the Center, the Rangers Sprite is back in position to block the way, interactable also when standing atop the sprite.
+- first flower beneath the route 1 entrance, sprite layering is wrong
+- animations in double battle, and catching Pokémon are a bit offset
+- Steamtree ranger sprite is a train conducter sprite
+- the fog in steamtree forest, disappears after battle, before reappearing shortly after
+- west side of the route 1 bridge flickers sometimes while walking south
+
+Audio Bugs:
+- Leaving a battle while the win music is playing, pauses the map music longer, leaving silence for a while
+- normal effective attacks don't play a sound on hit
+
+Bugs:
+- actual grass tiles are also placed above the flower patches
+- Route 1 exit Steam tree forest, sign is readable when collecting the item behind
+? Eevee trade at castle beach is not a real trade, just a free Eevee
